@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesztApiDevora", "TesztApiDevora\TesztApiDevora.csproj", "{DD7ADADD-A9AF-4649-A2C7-BFCC3076DCFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesztApiDevora.Tests", "TesztApiDevora.Tests\TesztApiDevora.Tests.csproj", "{8B1E16DA-8A47-4751-8E9C-83A663DCE083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7ADADD-A9AF-4649-A2C7-BFCC3076DCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7ADADD-A9AF-4649-A2C7-BFCC3076DCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7ADADD-A9AF-4649-A2C7-BFCC3076DCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7ADADD-A9AF-4649-A2C7-BFCC3076DCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1E16DA-8A47-4751-8E9C-83A663DCE083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1E16DA-8A47-4751-8E9C-83A663DCE083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1E16DA-8A47-4751-8E9C-83A663DCE083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1E16DA-8A47-4751-8E9C-83A663DCE083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {956B3F82-C327-433A-B97D-07E3CBFA680E}
+	EndGlobalSection
+EndGlobal
